@@ -1,6 +1,6 @@
 HOST_NAME=radzikow
 
-# source ~/.nvm/nvm.sh
+source ~/.nvm/nvm.sh
 nvm use stable
 shopt -s autocd
 shopt -s histappend
